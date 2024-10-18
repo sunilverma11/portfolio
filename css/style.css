@@ -13,7 +13,7 @@
 }
 .proj {
   display: grid;
-  grid-template-columns: repeat(2, 33%);
+  grid-template-columns: repeat(3, 33%);
   width: 87%;
   margin: auto;
   gap: 70px 30px;
